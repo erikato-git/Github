@@ -1,11 +1,13 @@
 # Github
 
 
-Raspberry Pi:
+Raspberry Pi / IoT:
 
 https://github.com/Kidde82/raspberry-pi-dc-motor-pwm
 
+https://github.com/microsoft/Windows-iotcore-samples
 
+#
 
 ASP.NET Core / C#:
 
@@ -17,7 +19,17 @@ https://github.com/MicrosoftLearning/edX-DEV233-DevelopingMicrosoftAzureSolution
 
 https://github.com/jazzyjester/Mario-Game
 
+https://github.com/aspnet/samples
 
+https://github.com/microsoft/WPF-Samples
+
+https://github.com/microsoft/AcademicContent
+
+https://github.com/microsoft/Windows-universal-samples
+
+https://github.com/csharpfritz/aspnetcore-app-workshop
+
+#
 
 
 Python:
@@ -29,6 +41,8 @@ https://github.com/PacktPublishing/-Internet-of-Things-with-Python-and-Raspberry
 https://github.com/timwaizenegger/raspberrypi-examples
 
 
+#
+
 Java:
 
 https://github.com/TheCherno/GameProgramming
@@ -37,13 +51,17 @@ https://github.com/in28minutes/JavaInterviewQuestionsAndAnswers
 
 https://github.com/bethrobson/Head-First-Design-Patterns
 
+https://github.com/b3dgs/warcraft-remake
 
-
+#
 
 C:
 
 https://github.com/dalerank/caesaria-game
 
+https://github.com/apreiml/freeaoe
+
+#
 
 ML:
 
@@ -65,15 +83,42 @@ https://github.com/dennybritz/reinforcement-learning
 
 https://github.com/udacity/deep-reinforcement-learning
 
+https://github.com/ml5js/ml5-examples
+
+https://github.com/lazyprogrammer/machine_learning_examples
+
+https://github.com/microsoft/CNTK
+
+https://github.com/MicrosoftLearning/Reinforcement-Learning-Explained
+
+https://github.com/dotnet/machinelearning-samples
+
+#
 
 
 Electronics:
 
 https://github.com/kitspace/awesome-electronics
 
+https://github.com/adafruit/Adafruit_CircuitPython_Motor
+
+#
 
 Security:
 
 https://github.com/qazbnm456/awesome-web-security
+
+#
+
+
+Teck stacks / Hackathon:
+
+https://github.com/gothinkster/realworld
+
+https://github.com/sahat/hackathon-starter
+
+https://github.com/microsoft/WhatTheHack
+
+
 
 
