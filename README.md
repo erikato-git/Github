@@ -102,6 +102,8 @@ https://github.com/kitspace/awesome-electronics
 
 https://github.com/adafruit/Adafruit_CircuitPython_Motor
 
+https://github.com/zohaiburrehman/Servo-motor-controller-using-Raspberry-PI-Python
+
 #
 
 Security:
